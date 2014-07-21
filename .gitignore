@@ -6,6 +6,3 @@ newrelic_agent.log
 node_modules/
 public/system/
 *.pyc
-public/client
-.sass-cache
-server/webScraper/server.py
